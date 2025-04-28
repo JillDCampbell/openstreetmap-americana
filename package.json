@@ -41,7 +41,7 @@
     "@americana/maplibre-shield-generator": "*",
     "color-rgba": "^2.4.0",
     "events": "^3.3.0",
-    "fonteditor-core": "^2.1.11",
+    "fonteditor-core": "^2.4.1",
     "openmapsamples": "github:adamfranco/OpenMapSamples",
     "openmapsamples-maplibre": "github:adamfranco/OpenMapSamples-MapLibre",
     "tokenfield": "^1.5.2"
